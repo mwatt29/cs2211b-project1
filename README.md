@@ -18,6 +18,7 @@ main.c – A sample program demonstrating BST usage.
 
 Implementation Details
 1. Data Structures
+
 Key: A structure containing:
 
 char *name (string)
