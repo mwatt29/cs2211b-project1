@@ -1,8 +1,8 @@
 # cs2211b-project1
 
-#What This Project Does
+# What This Project Does
 
-#Overview
+# Overview
 This assignment involves implementing a Binary Search Tree (BST) in C using arrays. The BST will store nodes containing a key (a string and integer pair) and associated data (a string). The implementation must support insertion, traversal, and proper memory management.
 
 Files Provided
